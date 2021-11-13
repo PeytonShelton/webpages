@@ -6,14 +6,16 @@
  *Description: Intro to XHTML and Styling
  */
  
-p {
-    property: value;
+html {
+    background-color: #D0D0D0 ;
 }
 
 .class {
-    property: value;
+    border: 2px solid #BBBBBB ;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width: 200px ;
+	max-height: 300px ;
+	border: 2px solid #00FF00 ;
 }
