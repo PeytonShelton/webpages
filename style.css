@@ -6,20 +6,20 @@
  *Description: Intro to XHTML and Styling
  */
  
-html {
+html{
     background-color: #D9D9D9 ;
 }
 
-.class {
+.class{
     border: 2px solid #EEEEEE ;
 }
 
-#photo-resize {
+#photo-resize{
     max-width: 200px ;
 	max-height: 250px ;
 	border: 2px #00FF00 ;
 }
-f2 {
+f2{
     font-family:Arial ;
 	font-size: 16px ;
 	color: #FF0000;
